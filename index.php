@@ -4,10 +4,10 @@ include('cek-login.php');
 <!DOCTYPE html>
 <html>
 <head>
-<title>formlogin</title>
+<title>login</title>
 </head>
 
 <body>
-<center><h1>selamat datang</h1></center>
+<center><h1>selamat datang cuyy</h1></center>
 </body>
 </html>
